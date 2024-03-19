@@ -7,7 +7,7 @@ hero:
   text: "构建知识库"
   tagline: 且视他人之疑目如盏盏鬼火，大胆地走你的夜路
   image:
-    src: /background.png
+    src: /background.svg
     alt: 背景图片
   actions:
     - theme: brand
