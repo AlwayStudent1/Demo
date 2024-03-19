@@ -11,8 +11,8 @@ hero:
     alt: 背景图片
   actions:
     - theme: brand
-      text: Markdown 示例
-      link: /markdown-examples
+      text: 文心一言
+      link: https://yiyan.baidu.com/
     - theme: alt
       text: API 示例
       link: /api-examples
