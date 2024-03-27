@@ -46,7 +46,7 @@ export default defineConfig({
           },
           {
             text: '系统技术', items: [
-              { text: 'Linux', link: "/" },
+              { text: 'Linux', link: "/Linux" },
               { text: '实时操作系统（RTOS）', link: "/" }
             ]
           }
