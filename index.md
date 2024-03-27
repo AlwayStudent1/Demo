@@ -14,11 +14,11 @@ hero:
       text: 文心一言
       link: https://yiyan.baidu.com/
     - theme: alt
-      text: API 示例
-      link: /api-examples
+      text: 学习通
+      link: https://i.chaoxing.com/base?t=1711410511874
 
 features:
-  - title: 特征一
+  - title: 特征一 
     details: 特征一的详细描述
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
