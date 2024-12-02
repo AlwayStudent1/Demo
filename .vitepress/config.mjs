@@ -18,7 +18,7 @@ export default defineConfig({
           { text: 'HTML', link: "/front-end/" },
           { text: 'CSS', link: "/" },
           { text: 'JavaScript', link: "/" },
-          { text: 'vitepress', link: "/" },
+          { text: 'vitepress', link: "/front-end/vitepress/" },
         ]
       },
       {
@@ -75,7 +75,7 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/AlwayStudent1' }
     ],
     footer: {
-      copyright: "Copyright@ 2024 阿杰"
+      copyright: "Copyright@ 2025 阿杰"
     },
   
      // 设置搜索框的样式
